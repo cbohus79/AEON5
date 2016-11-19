@@ -1,5 +1,3 @@
-# aeon-multisensor 4 gen5
-
 INSTALLING SMART APPS
 For installing a Smart App complete these instructions:
 Click on the Smart App you desire to install,it will open in new window, select all (Ctrl+A), copy to clipboard (Ctrl+C)
@@ -10,7 +8,7 @@ Click "From Code"
 Paste (Ctrl + V) click the create icon at the bottom
 Click "Publish" and then click  "For me" 
 
-Click "Publish" and then "For me" on the top right (NOTE: see steps 7.1 to 7.6 below if you need to enable "OAuth" for your SmartApp)
+Click "Publish" and then "For me" on the top right 
 You can then install the smart app through the phone/tablet app.
 Ocassionally smart apps or device handlers require OAuth enabled for them to work. Follow these instructions to enable Oauth:
 After clicking Publish, click on the "App Settings" button , Scroll down and click on "OAuth" with the plus sign next to it.  Click on "Enable OAuth in Smart App" , and click Update.  If you have difficulties just log out and reenable it.
